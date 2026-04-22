@@ -1,0 +1,829 @@
+{
+  "market_trends": [
+    "대부분의 상위권 수학 개념서들이 최근 4주간 평균 판매지수 하락세(-1.6% ~ -18.7%)를 보이며 시장 전반의 침체 또는 계절적 요인에 의한 판매 감소가 두드러집니다.",
+    "개념원리, 기본 정석, 개념+유형 등 전통적인 강자들은 여전히 공통수학1과 공통수학2 모두에서 평균순위 1~3위를 차지하고 Top10 점유율 96% 이상을 유지하며 시장 지배력을 공고히 하고 있습니다.",
+    "일부 교재들은 전체 시장의 하락세 속에서도 상대적으로 낮은 감소율을 보이거나(예: 공통수학2 숨마쿰라우데 -1.6%, 수학 왕도 -2.4%) 상위권 순위(공통수학2 바이블 4.0위)를 유지하며 선방하고 있어, 특정 타겟층 또는 콘텐츠 차별화가 유효할 가능성을 시사합니다."
+  ],
+  "own_books": [
+    {
+      "series": "THE 개념",
+      "subject": "공수1",
+      "summary": "THE 개념 공통수학1은 제공된 판매지수 데이터 상위 15종에 포함되지 않아, 현재 시장 내 유의미한 판매 성과를 보이지 못하고 있습니다.",
+      "status": "하락",
+      "analysis": "상위 15종에 진입하지 못하는 것은 공통수학1 시장에서 브랜드 인지도와 콘텐츠 경쟁력이 매우 낮음을 시사합니다. 이는 초기 시장 진입 실패 또는 기존 강자들과의 경쟁에서 밀려났을 가능성이 높습니다.",
+      "action": "공통수학1 시장 재진입을 위한 철저한 시장 조사와 타겟팅 재설정이 필요합니다. 해당 학년 학생들의 니즈를 충족하는 차별화된 콘텐츠 개발과 공격적인 초기 마케팅 전략을 수립해야 합니다."
+    },
+    {
+      "series": "THE 개념",
+      "subject": "공수2",
+      "summary": "THE 개념 공통수학2는 평균 순위 14.5위, 최근 4주 판매지수 10.0% 하락, Top10 점유율 4%로 저조한 실적을 보이고 있습니다.",
+      "status": "하락",
+      "analysis": "시장 내 최하위권 순위와 낮은 점유율은 브랜드 인지도 및 접근성 부족을 시사합니다. 전반적인 시장 하락세 속에서도 높은 하락률을 보여 경쟁력이 약화되고 있을 가능성이 높습니다.",
+      "action": "핵심 타겟층을 명확히 설정하고 차별화된 학습 콘텐츠를 강조하는 마케팅 전략이 필요합니다. 온라인 서점 내 노출도를 높이고 사용자 리뷰 확보를 위한 캠페인을 기획해야 합니다."
+    }
+  ],
+  "top3_stable": [
+    {
+      "series": "개념원리",
+      "subject": "공수1",
+      "summary": "공통수학1 개념원리는 평균순위 1.0위, Top10 점유율 100%를 기록하며 시장을 압도적으로 선도하고 있습니다.",
+      "blacklabel_threat": "위협"
+    },
+    {
+      "series": "기본 정석",
+      "subject": "공수1",
+      "summary": "공통수학1 기본 정석은 평균순위 2.0위, Top10 점유율 96%를 유지하며 개념서 시장의 확고한 강자입니다.",
+      "blacklabel_threat": "위협"
+    },
+    {
+      "series": "개념+유형",
+      "subject": "공수1",
+      "summary": "공통수학1 개념+유형은 평균순위 3.0위, Top10 점유율 96%로 상위권을 견고하게 지키고 있습니다.",
+      "blacklabel_threat": "위협"
+    },
+    {
+      "series": "개념원리",
+      "subject": "공수2",
+      "summary": "공통수학2 개념원리는 평균순위 1.0위, Top10 점유율 100%를 기록하며 시장을 압도적으로 선도하고 있습니다.",
+      "blacklabel_threat": "위협"
+    },
+    {
+      "series": "기본 정석",
+      "subject": "공수2",
+      "summary": "공통수학2 기본 정석은 평균순위 2.0위, Top10 점유율 100%를 유지하며 개념서 시장의 확고한 강자입니다.",
+      "blacklabel_threat": "위협"
+    },
+    {
+      "series": "개념+유형",
+      "subject": "공수2",
+      "summary": "공통수학2 개념+유형은 평균순위 3.0위, Top10 점유율 100%로 상위권을 견고하게 지키고 있습니다.",
+      "blacklabel_threat": "위협"
+    }
+  ],
+  "surge_competitors": [
+    {
+      "series": "숨마쿰라우데",
+      "subject": "공수1",
+      "summary": "공통수학1 숨마쿰라우데는 평균순위 11.7위로 Top10 밖이지만, 최근 4주 판매지수 증감률이 -4.1%로 시장 평균보다 낮은 하락률을 보였습니다.",
+      "rise_reasons": [
+        "심화 학습 수요층의 꾸준한 선택",
+        "학기 중 심화 개념 정리 목적 구매 가능성",
+        "탄탄한 문제 구성 및 설명에 대한 기존 신뢰도"
+      ],
+      "trend_judgment": "중기",
+      "competition": "최상위권 학생들을 위한 심화 개념서로, 난이도 높은 문제와 깊이 있는 설명이 특징이며, 특정 니즈를 가진 충성도 높은 독자층을 확보하고 있습니다.",
+      "blacklabel_threat": "위협",
+      "blacklabel_insight": "숨마쿰라우데의 견고함은 심화 학습 니즈가 여전히 존재함을 보여주며, THE 개념이 이 시장을 공략하기 위해서는 차별화된 심화 콘텐츠 전략이 필요함을 시사합니다. 상위권 사용자들의 고품질 교재에 대한 기대치가 높다는 점을 인지해야 합니다.",
+      "blacklabel_action": "THE 개념 내 심화 개념 및 문제 비중 강화 방안을 검토하고, '블랙라벨' 브랜드의 심화 학습 전문성을 적극적으로 연결해야 합니다. 특정 단원별 심화 특강 등 온라인 콘텐츠 연계 프로모션을 기획할 수 있습니다."
+    },
+    {
+      "series": "개념쎈 라이트",
+      "subject": "공수1",
+      "summary": "공통수학1 개념쎈 라이트는 평균순위 7.7위, 최근 4주 판매지수 증감률 -6.0%로 Top10 내 안정적인 위치를 유지하며 시장 평균 대비 양호한 하락률을 보였습니다.",
+      "rise_reasons": [
+        "'쎈' 브랜드 인지도를 기반으로 한 쉬운 접근성",
+        "기존 쎈 시리즈보다 가벼운 난이도로 학습 부담 경감",
+        "개념서와 문제집의 균형 있는 구성 선호"
+      ],
+      "trend_judgment": "중기",
+      "competition": "개념과 문제의 균형을 중시하며, 중위권 학생들이 부담 없이 개념을 익히고 문제 풀이에 도전할 수 있도록 설계된 대중적인 교재입니다.",
+      "blacklabel_threat": "위협",
+      "blacklabel_insight": "개념쎈 라이트의 선방은 브랜드 파워와 함께 '쉬운 개념 접근'이라는 시장 니즈가 여전히 강하다는 것을 보여줍니다. 이는 THE 개념이 너무 심화에만 초점을 맞추지 않고, 기본적인 개념 이해도 충실히 전달해야 함을 시사합니다.",
+      "blacklabel_action": "THE 개념의 개념 설명 부분을 더욱 명확하고 친절하게 보완하여 기초가 부족한 학생들도 쉽게 접근할 수 있도록 개선해야 합니다. '개념 블랙라벨'이 단순히 어렵기만 한 교재가 아닌, '개념을 완벽하게 이해시키는 교재'라는 점을 강조하는 마케팅 메시지를 개발해야 합니다."
+    },
+    {
+      "series": "풍산자",
+      "subject": "공수1",
+      "summary": "공통수학1 풍산자는 평균순위 8.7위, 최근 4주 판매지수 증감률 -6.4%로 Top10에 속하며 비교적 낮은 하락률로 선방하고 있습니다.",
+      "rise_reasons": [
+        "가독성 높은 편집과 직관적인 설명 방식",
+        "다양한 난이도의 문제 제공으로 폭넓은 학습자층 수용",
+        "꾸준한 홍보와 온라인 채널 노출 효과"
+      ],
+      "trend_judgment": "중기",
+      "competition": "개념 이해와 문제 해결 능력 향상을 동시에 목표로 하며, 시각적 자료를 풍부하게 활용하여 학습 몰입도를 높이는 데 강점이 있는 중위권 대상 교재입니다.",
+      "blacklabel_threat": "위협",
+      "blacklabel_insight": "풍산자의 안정적인 성과는 직관적이고 친근한 접근 방식이 대중에게 어필하고 있음을 보여줍니다. 이는 THE 개념도 학습자가 쉽게 이해하고 따라올 수 있는 구성과 디자인 요소를 강화할 필요가 있음을 시사합니다.",
+      "blacklabel_action": "THE 개념의 개념 설명을 시각적으로 재구성하고, 중요 개념을 한눈에 파악할 수 있는 인포그래픽 요소를 추가하는 것을 검토해야 합니다. 독자 친화적인 디자인과 편집을 통해 학습 부담을 줄이고 접근성을 높이는 방안을 모색해야 합니다."
+    },
+    {
+      "series": "숨마쿰라우데",
+      "subject": "공수2",
+      "summary": "공통수학2 숨마쿰라우데는 평균순위 11.0위로 Top10 밖이지만, 최근 4주 판매지수 증감률이 -1.6%로 전체 시장 내 가장 낮은 하락률을 기록했습니다.",
+      "rise_reasons": [
+        "심화 학습 수요의 견고함",
+        "전반적인 시장 하락세 속에서 상대적 강세 부각",
+        "우수한 콘텐츠 품질에 대한 입소문"
+      ],
+      "trend_judgment": "중기",
+      "competition": "상위권 학생들을 위한 심화 개념서로, 깊이 있는 개념 설명과 난이도 높은 문제 풀이를 통해 사고력을 확장시키는 데 특화되어 있습니다.",
+      "blacklabel_threat": "위협",
+      "blacklabel_insight": "숨마쿰라우데의 탁월한 선방은 고난도 심화 학습에 대한 니즈가 시장 침체에도 불구하고 매우 견고함을 증명합니다. 이는 THE 개념이 지향하는 '블랙라벨'의 가치를 더욱 명확히 하고, 심화 콘텐츠에 대한 집중도를 높일 기회가 있음을 의미합니다.",
+      "blacklabel_action": "THE 개념은 심화 개념 및 문제의 난이도와 질을 더욱 고도화하여 숨마쿰라우데와의 직접적인 경쟁에서 우위를 점할 수 있도록 해야 합니다. 특히, 기존 블랙라벨 문제집과의 연계를 강화하여 체계적인 심화 학습 로드맵을 제공하는 콘텐츠 전략을 수립해야 합니다."
+    },
+    {
+      "series": "수학 왕도",
+      "subject": "공수2",
+      "summary": "공통수학2 수학 왕도는 평균순위 10.0위, 최근 4주 판매지수 증감률 -2.4%로 시장 내 가장 낮은 하락률 중 하나를 기록하며 강세를 보였습니다.",
+      "rise_reasons": [
+        "새로운 교재에 대한 기대감 또는 입소문",
+        "차별화된 학습법 제시 또는 구성 강점 부각",
+        "특정 학원/강사와의 연계 효과"
+      ],
+      "trend_judgment": "중기",
+      "competition": "비교적 최근 등장하여 '왕도'라는 이름처럼 핵심을 꿰뚫는 개념 전달 방식을 내세우거나, 특정 학습 방법론을 제시하는 교재로 추정되며, 대중적인 인지도를 확보하고 있습니다.",
+      "blacklabel_threat": "위협",
+      "blacklabel_insight": "수학 왕도의 상대적 선전은 시장에 새로운 학습 방법이나 접근 방식에 대한 수요가 있음을 보여줍니다. 이는 THE 개념이 기존의 틀에서 벗어나 혁신적인 개념 학습 경험을 제공할 수 있는 기회가 있음을 의미합니다.",
+      "blacklabel_action": "수학 왕도의 성공 요인을 면밀히 분석하여 THE 개념의 강점(예: 블랙라벨의 심층 개념 접근)을 활용한 차별화 전략을 수립해야 합니다. 특히, 개념 전달 방식의 참신성이나 학습 효율성을 부각하는 콘텐츠 기획 및 마케팅 메시지 개발에 집중해야 합니다."
+    },
+    {
+      "series": "풍산자",
+      "subject": "공수2",
+      "summary": "공통수학2 풍산자는 평균순위 9.0위, 최근 4주 판매지수 증감률 -4.2%로 Top10에 속하며 비교적 낮은 하락률로 선방하고 있습니다.",
+      "rise_reasons": [
+        "가독성 높은 편집과 직관적인 설명 방식",
+        "다양한 난이도의 문제 제공으로 폭넓은 학습자층 수용",
+        "꾸준한 홍보와 온라인 채널 노출 효과"
+      ],
+      "trend_judgment": "중기",
+      "competition": "개념 이해와 문제 해결 능력 향상을 동시에 목표로 하며, 시각적 자료를 풍부하게 활용하여 학습 몰입도를 높이는 데 강점이 있는 중위권 대상 교재입니다.",
+      "blacklabel_threat": "위협",
+      "blacklabel_insight": "풍산자의 안정적인 성과는 직관적이고 친근한 접근 방식이 대중에게 어필하고 있음을 보여줍니다. 이는 THE 개념도 학습자가 쉽게 이해하고 따라올 수 있는 구성과 디자인 요소를 강화할 필요가 있음을 시사합니다.",
+      "blacklabel_action": "THE 개념의 개념 설명을 시각적으로 재구성하고, 중요 개념을 한눈에 파악할 수 있는 인포그래픽 요소를 추가하는 것을 검토해야 합니다. 독자 친화적인 디자인과 편집을 통해 학습 부담을 줄이고 접근성을 높이는 방안을 모색해야 합니다."
+    },
+    {
+      "series": "개념쎈 라이트",
+      "subject": "공수2",
+      "summary": "공통수학2 개념쎈 라이트는 평균순위 8.0위, 최근 4주 판매지수 증감률 -4.8%로 Top10 내 안정적인 위치를 유지하며 시장 평균 대비 양호한 하락률을 보였습니다.",
+      "rise_reasons": [
+        "'쎈' 브랜드 인지도를 기반으로 한 쉬운 접근성",
+        "기존 쎈 시리즈보다 가벼운 난이도로 학습 부담 경감",
+        "개념서와 문제집의 균형 있는 구성 선호"
+      ],
+      "trend_judgment": "중기",
+      "competition": "개념과 문제의 균형을 중시하며, 중위권 학생들이 부담 없이 개념을 익히고 문제 풀이에 도전할 수 있도록 설계된 대중적인 교재입니다.",
+      "blacklabel_threat": "위협",
+      "blacklabel_insight": "개념쎈 라이트의 선방은 브랜드 파워와 함께 '쉬운 개념 접근'이라는 시장 니즈가 여전히 강하다는 것을 보여줍니다. 이는 THE 개념이 너무 심화에만 초점을 맞추지 않고, 기본적인 개념 이해도 충실히 전달해야 함을 시사합니다.",
+      "blacklabel_action": "THE 개념의 개념 설명 부분을 더욱 명확하고 친절하게 보완하여 기초가 부족한 학생들도 쉽게 접근할 수 있도록 개선해야 합니다. '개념 블랙라벨'이 단순히 어렵기만 한 교재가 아닌, '개념을 완벽하게 이해시키는 교재'라는 점을 강조하는 마케팅 메시지를 개발해야 합니다."
+    },
+    {
+      "series": "바이블",
+      "subject": "공수2",
+      "summary": "공통수학2 바이블은 평균순위 4.0위로 Top5에 속하지만, 최근 4주 판매지수 증감률은 -12.7%로 비교적 높은 하락률을 보였습니다.",
+      "rise_reasons": [
+        "오랜 기간 쌓아온 브랜드 신뢰도 및 인지도",
+        "꾸준한 개정 및 업데이트를 통한 경쟁력 유지",
+        "주요 학원 및 학교에서의 채택률"
+      ],
+      "trend_judgment": "단기",
+      "competition": "폭넓은 개념 설명과 다양한 유형의 문제로 정석 시리즈와 함께 수학 개념서 시장의 주류를 이루며, 많은 학생과 강사들에게 신뢰받는 전통 강자 교재입니다.",
+      "blacklabel_threat": "위협",
+      "blacklabel_insight": "바이블의 높은 순위는 시장에서 압도적인 브랜드 인지도와 콘텐츠 완성도가 중요함을 다시 한번 일깨워줍니다. 높은 하락률은 일시적인 현상이거나, 후발 주자들에게 기회를 줄 수 있는 틈새가 발생할 가능성도 시사합니다.",
+      "blacklabel_action": "THE 개념은 바이블과 같은 전통 강자의 핵심 강점(개념의 깊이, 문제의 질)을 분석하고, 여기에 블랙라벨만의 '심화 학습 연결성'을 더한 전략을 고민해야 합니다. 특히, 개념 설명의 명료성과 문제 풀이 접근 방식의 효율성을 강조하여 바이블의 잠재적 이탈 사용자를 흡수할 방안을 모색해야 합니다."
+    }
+  ],
+  "generated_at": "2026-04-22 16:22",
+  "data_as_of": "2026-04-22",
+  "quantitative": {
+    "공수1": [
+      {
+        "series": "개념원리",
+        "recent7_avg": 256488.5,
+        "prev7_avg": 266908.5,
+        "recent7_rank": 1.0,
+        "recent4w_avg": 275780.5,
+        "prev4w_avg": 297675.6428571428,
+        "top10_pct": 100.0,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -3.9,
+        "m4w_chg_pct": -7.4
+      },
+      {
+        "series": "기본 정석",
+        "recent7_avg": 83638.0,
+        "prev7_avg": 86064.0,
+        "recent7_rank": 2.0,
+        "recent4w_avg": 88757.7391304348,
+        "prev4w_avg": 98670.5357142857,
+        "top10_pct": 96.3,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -2.8,
+        "m4w_chg_pct": -10.0
+      },
+      {
+        "series": "개념+유형",
+        "recent7_avg": 66533.5,
+        "prev7_avg": 69567.0,
+        "recent7_rank": 3.0,
+        "recent4w_avg": 73549.5652173913,
+        "prev4w_avg": 81513.0,
+        "top10_pct": 96.3,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -4.4,
+        "m4w_chg_pct": -9.8
+      },
+      {
+        "series": "바이블",
+        "recent7_avg": 47874.5,
+        "prev7_avg": 49782.0,
+        "recent7_rank": 4.0,
+        "recent4w_avg": 52927.875,
+        "prev4w_avg": 62241.3214285714,
+        "top10_pct": 96.3,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -3.8,
+        "m4w_chg_pct": -15.0
+      },
+      {
+        "series": "마플 교과서",
+        "recent7_avg": 45947.0,
+        "prev7_avg": 48339.0,
+        "recent7_rank": 5.0,
+        "recent4w_avg": 51510.5,
+        "prev4w_avg": 58016.7857142857,
+        "top10_pct": 96.3,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -4.9,
+        "m4w_chg_pct": -11.2
+      },
+      {
+        "series": "실력 정석",
+        "recent7_avg": 42281.5,
+        "prev7_avg": 43355.25,
+        "recent7_rank": 6.0,
+        "recent4w_avg": 44580.625,
+        "prev4w_avg": 48089.7857142857,
+        "top10_pct": 96.3,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -2.5,
+        "m4w_chg_pct": -7.3
+      },
+      {
+        "series": "개념쎈 라이트",
+        "recent7_avg": 24608.5,
+        "prev7_avg": 25596.0,
+        "recent7_rank": 7.6666666667,
+        "recent4w_avg": 26117.625,
+        "prev4w_avg": 27793.7777777778,
+        "top10_pct": 100.0,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -3.9,
+        "m4w_chg_pct": -6.0
+      },
+      {
+        "series": "풍산자",
+        "recent7_avg": 23721.5,
+        "prev7_avg": 24537.0,
+        "recent7_rank": 8.6666666667,
+        "recent4w_avg": 25759.6956521739,
+        "prev4w_avg": 27518.5714285714,
+        "top10_pct": 92.6,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -3.3,
+        "m4w_chg_pct": -6.4
+      },
+      {
+        "series": "개념 해결의법칙",
+        "recent7_avg": 10635.5,
+        "prev7_avg": 11162.25,
+        "recent7_rank": 9.6666666667,
+        "recent4w_avg": 11570.2173913043,
+        "prev4w_avg": 13188.0,
+        "top10_pct": 96.3,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -4.7,
+        "m4w_chg_pct": -12.3
+      },
+      {
+        "series": "개념루트(new)",
+        "recent7_avg": 9861.0,
+        "prev7_avg": 10175.25,
+        "recent7_rank": 10.0,
+        "recent4w_avg": 11397.6,
+        "prev4w_avg": 14021.0357142857,
+        "top10_pct": 51.9,
+        "top20_pct": 85.2,
+        "idx_chg_pct": -3.1,
+        "m4w_chg_pct": -18.7
+      },
+      {
+        "series": "개념루트",
+        "recent7_avg": 9897.0,
+        "prev7_avg": null,
+        "recent7_rank": 11.0,
+        "recent4w_avg": 9897.0,
+        "prev4w_avg": null,
+        "top10_pct": null,
+        "top20_pct": 14.8,
+        "idx_chg_pct": null,
+        "m4w_chg_pct": null
+      },
+      {
+        "series": "개념쎈",
+        "recent7_avg": 25047.75,
+        "prev7_avg": null,
+        "recent7_rank": 11.3333333333,
+        "recent4w_avg": 25047.75,
+        "prev4w_avg": null,
+        "top10_pct": 18.5,
+        "top20_pct": 100.0,
+        "idx_chg_pct": null,
+        "m4w_chg_pct": null
+      },
+      {
+        "series": "숨마쿰라우데",
+        "recent7_avg": 9713.0,
+        "prev7_avg": 9819.0,
+        "recent7_rank": 11.6666666667,
+        "recent4w_avg": 9923.75,
+        "prev4w_avg": 10351.0714285714,
+        "top10_pct": 7.4,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -1.1,
+        "m4w_chg_pct": -4.1
+      },
+      {
+        "series": "수학 왕도",
+        "recent7_avg": 9428.0,
+        "prev7_avg": 10212.0,
+        "recent7_rank": 12.6666666667,
+        "recent4w_avg": 10212.75,
+        "prev4w_avg": 11682.5357142857,
+        "top10_pct": 11.1,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -7.7,
+        "m4w_chg_pct": -12.6
+      },
+      {
+        "series": "디딤돌 개념기본(low)",
+        "recent7_avg": 9120.0,
+        "prev7_avg": 9370.5,
+        "recent7_rank": 13.0,
+        "recent4w_avg": 9771.45,
+        "prev4w_avg": 10494.0,
+        "top10_pct": 3.7,
+        "top20_pct": 85.2,
+        "idx_chg_pct": -2.7,
+        "m4w_chg_pct": -6.9
+      },
+      {
+        "series": "디딤돌 개념기본",
+        "recent7_avg": 8959.5,
+        "prev7_avg": null,
+        "recent7_rank": 14.0,
+        "recent4w_avg": 8959.5,
+        "prev4w_avg": null,
+        "top10_pct": null,
+        "top20_pct": 14.8,
+        "idx_chg_pct": null,
+        "m4w_chg_pct": null
+      },
+      {
+        "series": "THE 개념",
+        "recent7_avg": 8633.0,
+        "prev7_avg": 9201.0,
+        "recent7_rank": 14.6666666667,
+        "recent4w_avg": 10603.625,
+        "prev4w_avg": 11998.7777777778,
+        "top10_pct": 33.3,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -6.2,
+        "m4w_chg_pct": -11.6
+      },
+      {
+        "series": "수학의 샘",
+        "recent7_avg": 7338.0,
+        "prev7_avg": 7677.0,
+        "recent7_rank": 15.6666666667,
+        "recent4w_avg": 8376.125,
+        "prev4w_avg": 9903.8571428571,
+        "top10_pct": null,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -4.4,
+        "m4w_chg_pct": -15.4
+      },
+      {
+        "series": "완쏠 개념 라이트(new)",
+        "recent7_avg": 6534.0,
+        "prev7_avg": 6627.0,
+        "recent7_rank": 16.0,
+        "recent4w_avg": 6888.6,
+        "prev4w_avg": 7909.7142857143,
+        "top10_pct": null,
+        "top20_pct": 85.2,
+        "idx_chg_pct": -1.4,
+        "m4w_chg_pct": -12.9
+      },
+      {
+        "series": "완쏠 개념 라이트",
+        "recent7_avg": 6445.5,
+        "prev7_avg": null,
+        "recent7_rank": 17.0,
+        "recent4w_avg": 6445.5,
+        "prev4w_avg": null,
+        "top10_pct": null,
+        "top20_pct": 14.8,
+        "idx_chg_pct": null,
+        "m4w_chg_pct": null
+      },
+      {
+        "series": "수매씽 개념(new)",
+        "recent7_avg": 4200.0,
+        "prev7_avg": 4417.5,
+        "recent7_rank": 17.0,
+        "recent4w_avg": 4877.85,
+        "prev4w_avg": 5562.4285714286,
+        "top10_pct": null,
+        "top20_pct": 85.2,
+        "idx_chg_pct": -4.9,
+        "m4w_chg_pct": -12.3
+      },
+      {
+        "series": "수매씽 개념",
+        "recent7_avg": 4089.0,
+        "prev7_avg": null,
+        "recent7_rank": 18.0,
+        "recent4w_avg": 4089.0,
+        "prev4w_avg": null,
+        "top10_pct": null,
+        "top20_pct": 14.8,
+        "idx_chg_pct": null,
+        "m4w_chg_pct": null
+      },
+      {
+        "series": "개념.Zip(new)",
+        "recent7_avg": 3012.0,
+        "prev7_avg": 3010.5,
+        "recent7_rank": 18.0,
+        "recent4w_avg": 3193.8,
+        "prev4w_avg": 3515.8928571429,
+        "top10_pct": 3.7,
+        "top20_pct": 85.2,
+        "idx_chg_pct": 0.0,
+        "m4w_chg_pct": -9.2
+      },
+      {
+        "series": "개념.Zip",
+        "recent7_avg": 2889.0,
+        "prev7_avg": null,
+        "recent7_rank": 19.0,
+        "recent4w_avg": 2889.0,
+        "prev4w_avg": null,
+        "top10_pct": null,
+        "top20_pct": 14.8,
+        "idx_chg_pct": null,
+        "m4w_chg_pct": null
+      },
+      {
+        "series": "완쏠 개념(new)",
+        "recent7_avg": 714.0,
+        "prev7_avg": 708.0,
+        "recent7_rank": 19.0,
+        "recent4w_avg": 714.9,
+        "prev4w_avg": 807.2142857143,
+        "top10_pct": null,
+        "top20_pct": 85.2,
+        "idx_chg_pct": 0.8,
+        "m4w_chg_pct": -11.4
+      },
+      {
+        "series": "완쏠 개념",
+        "recent7_avg": 696.0,
+        "prev7_avg": null,
+        "recent7_rank": 20.0,
+        "recent4w_avg": 696.0,
+        "prev4w_avg": null,
+        "top10_pct": null,
+        "top20_pct": 14.8,
+        "idx_chg_pct": null,
+        "m4w_chg_pct": null
+      },
+      {
+        "series": "개념쎈(구판)",
+        "recent7_avg": null,
+        "prev7_avg": null,
+        "recent7_rank": 21.0,
+        "recent4w_avg": null,
+        "prev4w_avg": null,
+        "top10_pct": null,
+        "top20_pct": null,
+        "idx_chg_pct": null,
+        "m4w_chg_pct": null
+      }
+    ],
+    "공수2": [
+      {
+        "series": "개념원리",
+        "recent7_avg": 191368.0,
+        "prev7_avg": 194173.5,
+        "recent7_rank": 1.0,
+        "recent4w_avg": 198000.625,
+        "prev4w_avg": 213398.1428571429,
+        "top10_pct": 100.0,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -1.4,
+        "m4w_chg_pct": -7.2
+      },
+      {
+        "series": "기본 정석",
+        "recent7_avg": 66588.0,
+        "prev7_avg": 67824.75,
+        "recent7_rank": 2.0,
+        "recent4w_avg": 69526.625,
+        "prev4w_avg": 76127.3571428571,
+        "top10_pct": 100.0,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -1.8,
+        "m4w_chg_pct": -8.7
+      },
+      {
+        "series": "개념+유형",
+        "recent7_avg": 44619.5,
+        "prev7_avg": 45336.0,
+        "recent7_rank": 3.0,
+        "recent4w_avg": 46283.25,
+        "prev4w_avg": 49929.6428571429,
+        "top10_pct": 100.0,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -1.6,
+        "m4w_chg_pct": -7.3
+      },
+      {
+        "series": "바이블",
+        "recent7_avg": 38743.5,
+        "prev7_avg": 39568.5,
+        "recent7_rank": 4.0,
+        "recent4w_avg": 40957.4347826087,
+        "prev4w_avg": 46906.3928571429,
+        "top10_pct": 92.6,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -2.1,
+        "m4w_chg_pct": -12.7
+      },
+      {
+        "series": "실력 정석",
+        "recent7_avg": 35860.0,
+        "prev7_avg": 35836.5,
+        "recent7_rank": 5.0,
+        "recent4w_avg": 36553.875,
+        "prev4w_avg": 39228.3214285714,
+        "top10_pct": 96.3,
+        "top20_pct": 100.0,
+        "idx_chg_pct": 0.1,
+        "m4w_chg_pct": -6.8
+      },
+      {
+        "series": "마플 교과서",
+        "recent7_avg": 35640.5,
+        "prev7_avg": 36073.5,
+        "recent7_rank": 6.0,
+        "recent4w_avg": 36637.125,
+        "prev4w_avg": 38958.3333333333,
+        "top10_pct": 96.3,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -1.2,
+        "m4w_chg_pct": -6.0
+      },
+      {
+        "series": "개념쎈",
+        "recent7_avg": 21612.0,
+        "prev7_avg": 22207.5,
+        "recent7_rank": 7.0,
+        "recent4w_avg": 22726.625,
+        "prev4w_avg": 26003.7857142857,
+        "top10_pct": 100.0,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -2.7,
+        "m4w_chg_pct": -12.6
+      },
+      {
+        "series": "개념쎈 라이트",
+        "recent7_avg": 15154.0,
+        "prev7_avg": 15285.0,
+        "recent7_rank": 8.0,
+        "recent4w_avg": 15438.25,
+        "prev4w_avg": 16222.0714285714,
+        "top10_pct": 100.0,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -0.9,
+        "m4w_chg_pct": -4.8
+      },
+      {
+        "series": "풍산자",
+        "recent7_avg": 14763.0,
+        "prev7_avg": 15324.0,
+        "recent7_rank": 9.0,
+        "recent4w_avg": 16034.75,
+        "prev4w_avg": 16734.8571428571,
+        "top10_pct": 96.3,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -3.7,
+        "m4w_chg_pct": -4.2
+      },
+      {
+        "series": "수학 왕도",
+        "recent7_avg": 8988.0,
+        "prev7_avg": 9084.0,
+        "recent7_rank": 10.0,
+        "recent4w_avg": 8996.75,
+        "prev4w_avg": 9215.4642857143,
+        "top10_pct": 96.3,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -1.1,
+        "m4w_chg_pct": -2.4
+      },
+      {
+        "series": "숨마쿰라우데",
+        "recent7_avg": 7029.0,
+        "prev7_avg": 7048.5,
+        "recent7_rank": 11.0,
+        "recent4w_avg": 7122.0,
+        "prev4w_avg": 7241.3571428571,
+        "top10_pct": 3.7,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -0.3,
+        "m4w_chg_pct": -1.6
+      },
+      {
+        "series": "수학의 샘",
+        "recent7_avg": 6121.0,
+        "prev7_avg": 6174.0,
+        "recent7_rank": 12.1666666667,
+        "recent4w_avg": 6314.25,
+        "prev4w_avg": 7101.2142857143,
+        "top10_pct": null,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -0.9,
+        "m4w_chg_pct": -11.1
+      },
+      {
+        "series": "개념 해결의법칙",
+        "recent7_avg": 5973.0,
+        "prev7_avg": 6078.0,
+        "recent7_rank": 12.8333333333,
+        "recent4w_avg": 6227.5,
+        "prev4w_avg": 6748.2222222222,
+        "top10_pct": 3.7,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -1.7,
+        "m4w_chg_pct": -7.7
+      },
+      {
+        "series": "개념루트",
+        "recent7_avg": 5724.0,
+        "prev7_avg": null,
+        "recent7_rank": 14.25,
+        "recent4w_avg": 5724.0,
+        "prev4w_avg": null,
+        "top10_pct": null,
+        "top20_pct": 14.8,
+        "idx_chg_pct": null,
+        "m4w_chg_pct": null
+      },
+      {
+        "series": "THE 개념",
+        "recent7_avg": 5720.0,
+        "prev7_avg": 5823.0,
+        "recent7_rank": 14.5,
+        "recent4w_avg": 6023.25,
+        "prev4w_avg": 6692.1428571429,
+        "top10_pct": 3.7,
+        "top20_pct": 100.0,
+        "idx_chg_pct": -1.8,
+        "m4w_chg_pct": -10.0
+      },
+      {
+        "series": "개념루트(new)",
+        "recent7_avg": 5676.0,
+        "prev7_avg": 5722.5,
+        "recent7_rank": 15.0,
+        "recent4w_avg": 5944.2,
+        "prev4w_avg": 6343.5,
+        "top10_pct": 3.7,
+        "top20_pct": 85.2,
+        "idx_chg_pct": -0.8,
+        "m4w_chg_pct": -6.3
+      },
+      {
+        "series": "디딤돌 개념기본",
+        "recent7_avg": 4869.0,
+        "prev7_avg": null,
+        "recent7_rank": 16.0,
+        "recent4w_avg": 4869.0,
+        "prev4w_avg": null,
+        "top10_pct": null,
+        "top20_pct": 14.8,
+        "idx_chg_pct": null,
+        "m4w_chg_pct": null
+      },
+      {
+        "series": "디딤돌 개념기본(low)",
+        "recent7_avg": 4833.0,
+        "prev7_avg": 4873.5,
+        "recent7_rank": 16.0,
+        "recent4w_avg": 4992.3,
+        "prev4w_avg": 5400.6428571429,
+        "top10_pct": 3.7,
+        "top20_pct": 85.2,
+        "idx_chg_pct": -0.8,
+        "m4w_chg_pct": -7.6
+      },
+      {
+        "series": "완쏠 개념 라이트",
+        "recent7_avg": 3576.0,
+        "prev7_avg": null,
+        "recent7_rank": 17.0,
+        "recent4w_avg": 3576.0,
+        "prev4w_avg": null,
+        "top10_pct": null,
+        "top20_pct": 14.8,
+        "idx_chg_pct": null,
+        "m4w_chg_pct": null
+      },
+      {
+        "series": "완쏠 개념 라이트(new)",
+        "recent7_avg": 3588.0,
+        "prev7_avg": 3628.5,
+        "recent7_rank": 17.0,
+        "recent4w_avg": 3624.6,
+        "prev4w_avg": 3738.4285714286,
+        "top10_pct": null,
+        "top20_pct": 85.2,
+        "idx_chg_pct": -1.1,
+        "m4w_chg_pct": -3.0
+      },
+      {
+        "series": "수매씽 개념",
+        "recent7_avg": 2355.0,
+        "prev7_avg": null,
+        "recent7_rank": 18.0,
+        "recent4w_avg": 2355.0,
+        "prev4w_avg": null,
+        "top10_pct": null,
+        "top20_pct": 14.8,
+        "idx_chg_pct": null,
+        "m4w_chg_pct": null
+      },
+      {
+        "series": "수매씽 개념(new)",
+        "recent7_avg": 2427.0,
+        "prev7_avg": 2397.0,
+        "recent7_rank": 18.0,
+        "recent4w_avg": 2472.6,
+        "prev4w_avg": 2509.2857142857,
+        "top10_pct": null,
+        "top20_pct": 85.2,
+        "idx_chg_pct": 1.3,
+        "m4w_chg_pct": -1.5
+      },
+      {
+        "series": "개념.Zip",
+        "recent7_avg": 1726.5,
+        "prev7_avg": null,
+        "recent7_rank": 19.0,
+        "recent4w_avg": 1726.5,
+        "prev4w_avg": null,
+        "top10_pct": null,
+        "top20_pct": 14.8,
+        "idx_chg_pct": null,
+        "m4w_chg_pct": null
+      },
+      {
+        "series": "개념.Zip(new)",
+        "recent7_avg": 1740.0,
+        "prev7_avg": 1796.25,
+        "recent7_rank": 19.0,
+        "recent4w_avg": 1833.15,
+        "prev4w_avg": 1912.7142857143,
+        "top10_pct": 3.7,
+        "top20_pct": 85.2,
+        "idx_chg_pct": -3.1,
+        "m4w_chg_pct": -4.2
+      },
+      {
+        "series": "완쏠 개념",
+        "recent7_avg": 540.0,
+        "prev7_avg": null,
+        "recent7_rank": 20.0,
+        "recent4w_avg": 540.0,
+        "prev4w_avg": null,
+        "top10_pct": null,
+        "top20_pct": 14.8,
+        "idx_chg_pct": null,
+        "m4w_chg_pct": null
+      },
+      {
+        "series": "완쏠 개념(new)",
+        "recent7_avg": 540.0,
+        "prev7_avg": 540.0,
+        "recent7_rank": 20.0,
+        "recent4w_avg": 540.0,
+        "prev4w_avg": 579.6428571429,
+        "top10_pct": null,
+        "top20_pct": 85.2,
+        "idx_chg_pct": 0.0,
+        "m4w_chg_pct": -6.8
+      }
+    ]
+  }
+}
